@@ -1,1 +1,1 @@
-Script to create new SFTP users on Globescape EFT Express
+Powershell script to create new SFTP users on Globescape EFT Express
